@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="anaRenk">#FFEC5C</color>
+    <color name="babaRenkite">#0D0D0D</color>
+    <color name="gizosRenk">#B4CF66</color>
+</resources>
